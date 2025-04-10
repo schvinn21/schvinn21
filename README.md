@@ -2,7 +2,7 @@
 
 ## 💡 Sobre mim
 🎓 Estudante de **Engenharia Mecatrônica** na UFSC (Previsão de conclusão: 2025)<br>
-📊 Apaixonado por **Análise de Dados**, **Sistemas Embarcados** e **Internet das Coisas (IIoT)**<br>
+📊 **Análise de Dados**, **Sistemas Embarcados** e **Internet das Coisas (IIoT)**<br>
 🏎️ Projetista do setor elétrico na **CTJ Baja**, desenvolvendo telemetria em tempo real<br>
 💼 Estagiário na **Wetzel**, atuando na engenharia de produto com desenvolvimento de software/firmware embarcado<br>
 
